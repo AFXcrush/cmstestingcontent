@@ -26,5 +26,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "is-this-sht-working",
+    "title": "Is this sh*t working?",
+    "description": "I think so. Let's make a new test",
+    "content": [
+      {
+        "type": "text",
+        "value": "If this is working, work then"
+      },
+      {
+        "type": "multi-select",
+        "value": [
+          "Ae",
+          "Acad"
+        ]
+      }
+    ]
   }
 ]

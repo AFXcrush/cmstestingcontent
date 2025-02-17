@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "mi-primer-title",
+    "title": "Mi primer title",
+    "description": "ti ti ti ti ti ti ti",
+    "content": [
+      {
+        "type": "text",
+        "value": "Algo y algo y algo"
+      },
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/afximagesection/image/upload/v1739826543/Testing/ujttmaxwv93livskiu5a.jpg"
+      },
+      {
+        "type": "YTvideo",
+        "value": "https://www.youtube.com/watch?v=rEs7DyLqwmo"
+      },
+      {
+        "type": "multi-select",
+        "value": [
+          "Ps",
+          "Ai",
+          "Pr",
+          "Bl"
+        ]
+      }
+    ]
+  }
+]

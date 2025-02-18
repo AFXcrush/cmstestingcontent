@@ -44,5 +44,20 @@
         ]
       }
     ]
+  },
+  {
+    "id": "no-mans-sky",
+    "title": "No man's sky",
+    "description": "Expedition 17 ongoing",
+    "content": [
+      {
+        "type": "image",
+        "value": "https://res.cloudinary.com/afximagesection/image/upload/v1739848468/Testing/ysivmreiyivuubfejsni.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Lorem ipsum dolo et"
+      }
+    ]
   }
 ]
